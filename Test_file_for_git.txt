@@ -6,3 +6,6 @@ d.	git config –global user.email <your email id>
 e.	If you are a windows user, trying to open git with admin access would work if the permission denied option appears.
 f.	Cloning: git clone <url>
 g.	git add <file name>
+h.	To check status: git status
+i.	To commit file: git commit -m "(Your message)" <your file>
+j.	Follow with this command: git push -u origin master
