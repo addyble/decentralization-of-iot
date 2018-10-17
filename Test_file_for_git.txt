@@ -1,0 +1,8 @@
+1.	Go to this link: https://git-scm.com/download/win for downloading git on Windows OS.
+a.	Create a new repository and copy the URL.
+b.	Use forward slash for changing directories and backward slash for spaces in between
+c.	Copy the newly created repositories URL and Type in command: git config –global user.name “<your github name>”
+d.	git config –global user.email <your email id>
+e.	If you are a windows user, trying to open git with admin access would work if the permission denied option appears.
+f.	Cloning: git clone <url>
+g.	git add <file name>
