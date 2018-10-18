@@ -9,3 +9,5 @@ g.	git add <file name>
 h.	To check status: git status
 i.	To commit file: git commit -m "(Your message)" <your file>
 j.	Follow with this command: git push -u origin master
+k.	For intializing a directory: git init
+l.	Saurav is making changes
